@@ -26,7 +26,7 @@ const Footer = () => {
 </div>
 
   <aside className='text-rose-600'>
-    <p className='text-center mt-4'>Copyright © {new Date().getFullYear()} - All right reserved by <span className='font-bold'>LocalNeedFinder</span></p>
+    <p className='text-center mt-4'>Copyright © {new Date().getFullYear()} - All right reserved by <span className='font-bold'>Helpify</span></p>
   </aside>
 </footer>
         </div>
