@@ -1,0 +1,52 @@
+[
+  {
+    "icon": "🚨",
+    "category": "emergency_help",
+    "label": "Emergency Help"
+  },
+  {
+    "icon": "🚗",
+    "category": "transport_rides",
+    "label": "Transport & Rides"
+  },
+  {
+    "icon": "🏠",
+    "category": "household_support",
+    "label": "Household Support"
+  },
+  {
+    "icon": "🥘",
+    "category": "food_groceries",
+    "label": "Food & Groceries"
+  },
+  {
+    "icon": "📚",
+    "category": "education_tutoring",
+    "label": "Education & Tutoring"
+  },
+  {
+    "icon": "💼",
+    "category": "job_task_sharing",
+    "label": "Job & Task Sharing"
+  },
+  {
+    "icon": "🔍",
+    "category": "lost_found",
+    "label": "Lost & Found"
+  },
+  {
+    "icon": "🤝",
+    "category": "community_services",
+    "label": "Community Services"
+  },
+  {
+    "icon": "📦",
+    "category": "shopping_delivery",
+    "label": "Shopping & Delivery"
+  },
+  {
+    "icon": "🎉",
+    "category": "events_social",
+    "label": "Events & Social"
+  }
+]
