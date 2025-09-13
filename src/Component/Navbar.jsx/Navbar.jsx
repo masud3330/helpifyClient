@@ -6,6 +6,7 @@ import profile from '../../assets/Avatar/image.png'
 import { ImProfile } from "react-icons/im";
 import { IoSettings } from "react-icons/io5";
 import { RiLogoutBoxRFill } from "react-icons/ri";
+import logo from "../../assets/helpifyLogo.png"
 // import useMyPosts from "../../hooks/useMyPosts";
 
 import useAuth from "../../hooks/useAuth";
@@ -70,7 +71,8 @@ const Navbar = () => {
       
       </ul>
     </div>
-    <p className="font-bold text-xl text-rose-500">Helpify</p>
+    {/* logo */}
+    <img src={logo} alt="" className="w-12"/>
    
   </div>
   <div className="navbar-center hidden lg:flex">
