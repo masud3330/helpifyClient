@@ -20,6 +20,10 @@ const Footer = () => {
   </nav>
 
 </div>
+<div className='text-center'>
+  <p className="font-bold text-xl text-rose-500">Helpify </p>
+<p className='bg-rose-500 text-md font-semibold text-white p-2 rounded-b-md '>A Helping Hand, Anytime.</p>
+</div>
 
   <aside className='text-rose-600'>
     <p className='text-center mt-4'>Copyright © {new Date().getFullYear()} - All right reserved by <span className='font-bold'>LocalNeedFinder</span></p>

@@ -70,7 +70,8 @@ const Navbar = () => {
       
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl text-rose-500">Helpify</a>
+    <p className="font-bold text-xl text-rose-500">Helpify</p>
+   
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 z-10">
